@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+}
+
+.main{
+    width: 80%;
+    margin: 10%;
+    border-radius: 10px;
+}
+
+.heading{
+    padding: 20px 0;
+}
+
+.quizContainer{
+    margin-top: 30px;
+}
+
+.option-div{
+    margin: 10px;
+}
+
+input{
+    margin: 10px;
+}
+
+.question{
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: transparent;
+    color: #fa0404;
+    border: 1px solid #fa0404;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin: 30px;
+}
+
+.btn:hover{
+    background-color: #fa0404;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin: 30px;
+}
