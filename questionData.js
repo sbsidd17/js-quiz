@@ -1,4 +1,4 @@
-const questions = [
+const questionss = [
     {
       question: "What is the purpose of padding in CSS?",
       options: {
